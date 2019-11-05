@@ -43,4 +43,10 @@ My following along on this project, you should be able to :
 * Implement user authentication, & authorization
 * ...
 
+## UX DESIGN 
+The UX is designed using [Figma](https://www.figma.com/)
+
+*to be continued*
+......
+
 **THIS PROJECT IS STILL BEING DEVELOPED DAILY.**
