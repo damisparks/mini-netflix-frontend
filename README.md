@@ -30,7 +30,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Project Scope : 
 > This project is full stack web application aimed to mimic [Netflix](www.netflix.com). 
 
-## **NOTE**: The project does not have the all the features [Netflix](www.netflix.com) has. It is a [Netflix](www.netflix.com) clone. 
+## **NOTE**: The project does not have the all the features [Netflix](www.netflix.com) has. 
+
+It is a [Netflix](www.netflix.com) clone. 
 
 ## **Objectives**
 My following along on this project, you should be able to : 
@@ -44,9 +46,9 @@ My following along on this project, you should be able to :
 * ...
 
 ## UX DESIGN 
-The UX is designed using [Figma](https://www.figma.com/)
+The UX is designed using [Figma](https://www.figma.com/).
 
-*to be continued*
-......
+
+[Mini Netflix UX Design](https://www.figma.com/file/cNlWOPiI4xWwJ1vruBpQy8/Mini-netflix?node-id=0%3A1) that i made can be found here. 
 
 **THIS PROJECT IS STILL BEING DEVELOPED DAILY.**
