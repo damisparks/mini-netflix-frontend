@@ -3,7 +3,7 @@
   margin: -8px;
   display: flex;
   align-items: center;
-  background-color: #1976d2;
+  background-color: #000;
   color: white;
   font-weight: 600;
 }
@@ -27,4 +27,35 @@
 
 .brand {
   padding-left: 1rem;
+  color: #cf6679;
+  height: 36px;
+    width: 134px;
 }
+
+button {
+  height: 40px;
+  width: 80px;
+  margin-right: 1rem;
+  background: #cf6679;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #fff;
+  border: none;
+
+}
+
+a {
+  color: #fff;
+  outline: none;
+}
+
+.is_active {
+  color: #000;
+}
+

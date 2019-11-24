@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+p {
+  color: white;
+}
+
+.login-body {
+  border: 1px solid white;
+  max-width: 30rem;
+  margin: auto;
+}
+
+.login-holder {
+  text-align: center;
+  /* To reuse this. */
+  /* background-image: "https://assets.nflxext.com/ffe/siteui/vlv3/9c5c4787-c6f7-4db7-81b8-280107a1bf36/02d1397b-ec97-453a-9539-0c974dfb2ae0/PT-en-20191118-popsignuptwoweeks-perspective_alpha_website_small.jpg";
+  background-size: cover; */
+}
