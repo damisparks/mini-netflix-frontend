@@ -51,4 +51,17 @@ The UX is designed using [Figma](https://www.figma.com/).
 
 [Mini Netflix UX Design](https://www.figma.com/file/cNlWOPiI4xWwJ1vruBpQy8/Mini-netflix?node-id=0%3A1) that i made can be found here. 
 
+# User Story
+## A user:
+*  should be able to view all movies on the homepage: The movie image, movie title and year of production
+* should be able to search for movie titles containing certain words
+* should be able to click on a movie and it should display more details about the movie like Rated,  Released,  Runtime,  Genre,  Director,  Writer,  Actors,  Plot,  Language,  Country,  Awards any other you want to display.
+* should be able to favorite movies I like and it should persist even if the browser tab is refreshed.
+* should be a favorites page that shows my favorite movies
+
+## Authentication
+* Implement authentication in express js where as a user, I can persist my favorite movies forever and remove movies from my favorites list. Use any DB of your choice.
+* Use Firebase for your backend.
+
+
 **THIS PROJECT IS STILL BEING DEVELOPED DAILY.**
